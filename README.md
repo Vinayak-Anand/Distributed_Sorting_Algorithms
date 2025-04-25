@@ -1,4 +1,3 @@
-# README.txt
 
 ## Parallel Sorting Algorithms in C++
 
@@ -179,4 +178,3 @@ Comparison program
 ## Author
 
 Name: Vinayak Anand
-Roll Number: S20220010243
