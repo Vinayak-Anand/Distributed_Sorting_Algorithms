@@ -1,5 +1,5 @@
 
-## Parallel Sorting Algorithms in C++
+## Parallel Sorting Algorithms in C++ (Discrete Event Simulator)
 
 This project contains C++ implementations of three parallel sorting algorithms using threads. Each algorithm takes a different approach to sorting in a distributed-like environment, making use of multi-threading to simulate parallelism. Here's what's included:
 
